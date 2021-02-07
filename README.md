@@ -4,7 +4,7 @@
 
 ## Prompt
 
-![12 Days Prompt](12 Days Prompt.png?raw=true "Prompt")
+![12 Days Prompt](https://github.com/ahkim3/12-Days/blob/main/12 Days Prompt.png?raw=true "Prompt")
 
 ## Authors
 - Andrew Kim
